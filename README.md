@@ -1,0 +1,2 @@
+# Data-standardization
+we perform these operations on dataset of breast cancer, firstly Imort libraries, then load the data of breast cancer, now show imported dataset then load data to panda's data frame, X is a data frame and then Y is the target value, the values are either 0 or 1 , then Splitting the data into training data and test data. At the end To standardize the data we are using the library of standard scalar.
